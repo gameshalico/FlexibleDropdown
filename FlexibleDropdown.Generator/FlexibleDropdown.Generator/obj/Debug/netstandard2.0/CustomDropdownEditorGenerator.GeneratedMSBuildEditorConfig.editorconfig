@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CustomDropdownEditorGenerator
+build_property.ProjectDir = D:\Unity\MyCustomPackages\Dotnet\CustomDropdownEditorGenerator\CustomDropdownEditorGenerator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

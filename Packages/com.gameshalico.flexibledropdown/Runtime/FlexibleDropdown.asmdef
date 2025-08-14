@@ -1,0 +1,16 @@
+{
+    "name": "FlexibleDropdown",
+    "rootNamespace": "FlexibleDropdown",
+    "references": [
+        "GUID:6e33937fd689ef54991e1209cfb075a9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

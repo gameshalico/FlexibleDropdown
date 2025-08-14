@@ -1,0 +1,10 @@
+D:\Unity\FlexibleDropdown\Packages\com.gameshalico.flexibledropdown\Runtime\netstandard2.0\FlexibleDropdown.Generator.deps.json
+D:\Unity\FlexibleDropdown\Packages\com.gameshalico.flexibledropdown\Runtime\netstandard2.0\FlexibleDropdown.Generator.dll
+D:\Unity\FlexibleDropdown\Packages\com.gameshalico.flexibledropdown\Runtime\netstandard2.0\FlexibleDropdown.Generator.pdb
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.csproj.AssemblyReference.cache
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.AssemblyInfoInputs.cache
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.AssemblyInfo.cs
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.csproj.CoreCompileInputs.cache
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.dll
+D:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.Generator\obj\Release\netstandard2.0\FlexibleDropdown.Generator.pdb

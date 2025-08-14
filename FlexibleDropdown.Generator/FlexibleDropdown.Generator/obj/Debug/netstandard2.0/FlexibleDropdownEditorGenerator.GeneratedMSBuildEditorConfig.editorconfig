@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = FlexibleDropdownEditorGenerator
+build_property.ProjectDir = d:\Unity\FlexibleDropdown\FlexibleDropdown.Generator\FlexibleDropdown.EditorGenerator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

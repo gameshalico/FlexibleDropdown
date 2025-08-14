@@ -1,0 +1,10 @@
+﻿{
+  "name": "com.gameshalico.flexibledropdown",
+  "displayName": "Flexible Dropdown",
+  "description": "A Unity editor extension that allows you to easily create flexible dropdown menus in the Inspector. Simply implement an attribute and an interface to define your data.",
+  "unity": "2022.3",
+  "version": "0.1.0",
+  "author": {
+    "name": "gameshalico"
+  }
+}
