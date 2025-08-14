@@ -70,3 +70,5 @@ crashlytics-build.properties
 # UIElements auto-generated Assets
 UIElementsSchema/
 /Assets/TextMesh Pro*
+
+/.claude/
