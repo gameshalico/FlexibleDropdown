@@ -6,9 +6,10 @@ Unityでフィールドのドロップダウン選択を簡単に実装できる
 
 ## 特徴
 
-- 🚀 **Source Generator**: PropertyDrawerを自動生成するので、インターフェースの実装だけで完結
-- 🔧 **柔軟な設定**: 任意のシリアライズ可能なデータ型に対応し、表示名変更や階層分けも可能
-- 🎨 **2つのスタイル**: 標準的な`PopupField`と検索可能な`AdvancedDropdown`を選択可能
+- **Source Generator**: PropertyDrawerを自動生成するので、インターフェースの実装だけで完結
+- **柔軟な設定**: 任意のシリアライズ可能なデータ型に対応し、表示名変更や階層分けも可能
+- **2つのスタイル**: 標準的な`PopupField`と検索可能な`AdvancedDropdown`を選択可能
+- **IMGUI/UIToolkit両対応**: IMGUI表示しかできない状況にも対応
 
 ## インストール
 
