@@ -41,7 +41,7 @@ public class DemoComponent : MonoBehaviour
 {
     [SerializeField]
     [SampleDropdown]
-    private string _sceneName;
+    private string _sampleField;
 }
 ```
 
