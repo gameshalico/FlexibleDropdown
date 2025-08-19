@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlexibleDropdown.Generator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f3ed4d079ce05d08e6e908e3ef91e66c17db5e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlexibleDropdown.Generator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlexibleDropdown.Generator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

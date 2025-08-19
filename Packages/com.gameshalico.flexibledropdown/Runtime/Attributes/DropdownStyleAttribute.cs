@@ -19,5 +19,11 @@ namespace FlexibleDropdown.Attributes
     [AttributeUsage(AttributeTargets.Class)]
     public class DropdownStyleAttribute : PropertyAttribute
     {
+        public DropdownStyleAttribute(DropdownStyle style = DropdownStyle.Standard)
+        {
+            Style = style;
+        }
+
+        public DropdownStyle Style { get; }
     }
 }
